@@ -71,10 +71,9 @@ def help_make_melons(filename):
     the_file.close()
     return mydict
 
-
+## TESTING ONLY ##
 file = 'types.txt'
 melon_dict = help_make_melons(file)
-
 
 
 def print_pairing_info(melon_types):

@@ -1,0 +1,32 @@
+Name: Muskmelon
+code: musk
+F_harv: 1998
+Color: green
+Pairings: mint
+is_seedless: True
+is_bestseller: True
+
+
+Name: Casaba
+code: cas
+F_harv: 2003
+Color: orange
+pairings: strawberries, mint
+is_seedless: False
+is_bestseller: False
+
+Name: Crenshaw
+code: cren
+F_harv: 1996
+Color: green
+Pairings: proscuitto
+is_seedless: False
+is_bestseller: False
+
+Name: Yellow Watermelon
+code: yw
+F_harv: 2013
+Color: yellow
+pairings: ice cream
+is_seedless: False
+is_bestseller: True
